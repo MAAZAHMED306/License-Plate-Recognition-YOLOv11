@@ -1,0 +1,8 @@
+path: C:/Users/MAAZ/Source-Code/datasets   # Root directory for dataset
+train: images/train                      # Training images
+val: images/valid                        # Validation images
+test: images/test                        # Test images (optional)
+
+# Classes
+names:
+  0: number plate

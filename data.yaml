@@ -1,0 +1,6 @@
+train: C:/Users/MAAZ/Source-Code/datasets/car-number-plate/images/train
+val: C:/Users/MAAZ/Source-Code/datasets/car-number-plate/images/valid
+test: C:/Users/MAAZ/Source-Code/datasets/car-number-plate/images/test
+
+nc: 1  # Number of classes
+names: ['number plate']

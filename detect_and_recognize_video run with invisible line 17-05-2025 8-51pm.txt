@@ -1,0 +1,3320 @@
+
+(yolo11) C:\Users\MAAZ\Source-Code>python detect_and_recognize_video.py
+Using GPU: NVIDIA GeForce GTX 1050 Ti
+CUDA Version: 11.8
+Processing video: datasets/car-number-plate/videos/traffic.mp4
+
+0: 384x640 9 number plates, 56.1ms
+Speed: 4.6ms preprocess, 56.1ms inference, 94.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 500 ms
+
+0: 384x640 8 number plates, 22.4ms
+Speed: 2.6ms preprocess, 22.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 21.9ms
+Speed: 2.0ms preprocess, 21.9ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 21.7ms
+Speed: 1.9ms preprocess, 21.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 21.7ms
+Speed: 2.2ms preprocess, 21.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 21.6ms
+Speed: 2.2ms preprocess, 21.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 16 ms
+
+0: 384x640 8 number plates, 21.5ms
+Speed: 2.1ms preprocess, 21.5ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 21.6ms
+Speed: 2.0ms preprocess, 21.6ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 21.6ms
+Speed: 2.0ms preprocess, 21.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 21.5ms
+Speed: 2.0ms preprocess, 21.5ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 21.6ms
+Speed: 2.0ms preprocess, 21.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 21.5ms
+Speed: 2.3ms preprocess, 21.5ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 21.1ms
+Speed: 2.4ms preprocess, 21.1ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 21.6ms
+Speed: 2.1ms preprocess, 21.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 21.5ms
+Speed: 2.1ms preprocess, 21.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 21.8ms
+Speed: 2.9ms preprocess, 21.8ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 21.8ms
+Speed: 2.4ms preprocess, 21.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 21.7ms
+Speed: 2.2ms preprocess, 21.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 21.7ms
+Speed: 2.3ms preprocess, 21.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 21.8ms
+Speed: 2.3ms preprocess, 21.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 21.6ms
+Speed: 2.3ms preprocess, 21.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 21.6ms
+Speed: 2.4ms preprocess, 21.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 22.1ms
+Speed: 2.4ms preprocess, 22.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 21.8ms
+Speed: 2.4ms preprocess, 21.8ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 21.7ms
+Speed: 2.2ms preprocess, 21.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 21.7ms
+Speed: 2.3ms preprocess, 21.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 21.7ms
+Speed: 2.3ms preprocess, 21.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 21.7ms
+Speed: 2.3ms preprocess, 21.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 21.8ms
+Speed: 2.3ms preprocess, 21.8ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 21.2ms
+Speed: 2.3ms preprocess, 21.2ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 21.0ms
+Speed: 2.8ms preprocess, 21.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.9ms
+Speed: 2.7ms preprocess, 20.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 24.8ms
+Speed: 3.0ms preprocess, 24.8ms inference, 2.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 21.0ms
+Speed: 2.7ms preprocess, 21.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.8ms
+Speed: 2.3ms preprocess, 20.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.4ms
+Speed: 2.7ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.5ms
+Speed: 2.9ms preprocess, 20.5ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.5ms
+Speed: 2.8ms preprocess, 20.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 20.6ms
+Speed: 2.3ms preprocess, 20.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.4ms
+Speed: 2.7ms preprocess, 20.4ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.5ms
+Speed: 2.7ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.6ms
+Speed: 2.6ms preprocess, 20.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.7ms preprocess, 20.4ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.6ms
+Speed: 2.6ms preprocess, 20.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.7ms
+Speed: 2.8ms preprocess, 20.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.8ms
+Speed: 2.6ms preprocess, 20.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 20.7ms
+Speed: 2.6ms preprocess, 20.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.6ms
+Speed: 2.6ms preprocess, 20.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.7ms
+Speed: 2.6ms preprocess, 20.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.5ms
+Speed: 2.6ms preprocess, 20.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 20.5ms
+Speed: 2.5ms preprocess, 20.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.6ms
+Speed: 2.6ms preprocess, 20.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.4ms
+Speed: 2.4ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 20.5ms
+Speed: 2.9ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.5ms
+Speed: 2.6ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 7 number plates, 20.5ms
+Speed: 2.2ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.5ms
+Speed: 2.2ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.4ms
+Speed: 2.4ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.6ms
+Speed: 2.5ms preprocess, 20.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.8ms
+Speed: 2.6ms preprocess, 20.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.7ms
+Speed: 2.7ms preprocess, 20.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.7ms
+Speed: 2.6ms preprocess, 20.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.7ms
+Speed: 2.6ms preprocess, 20.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.4ms
+Speed: 2.8ms preprocess, 20.4ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.6ms
+Speed: 2.3ms preprocess, 20.6ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.5ms
+Speed: 2.2ms preprocess, 20.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.6ms
+Speed: 2.2ms preprocess, 20.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.6ms
+Speed: 2.3ms preprocess, 20.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.7ms
+Speed: 2.4ms preprocess, 20.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.4ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 20.5ms
+Speed: 2.6ms preprocess, 20.5ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.3ms
+Speed: 2.2ms preprocess, 20.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 6 number plates, 20.6ms
+Speed: 2.2ms preprocess, 20.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 20.5ms
+Speed: 2.4ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.6ms
+Speed: 2.3ms preprocess, 20.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.7ms
+Speed: 2.2ms preprocess, 20.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 20.5ms
+Speed: 2.3ms preprocess, 20.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.4ms preprocess, 20.2ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.1ms
+Speed: 2.3ms preprocess, 20.1ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.2ms
+Speed: 2.7ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.3ms
+Speed: 2.5ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.3ms
+Speed: 3.0ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.5ms
+Speed: 2.7ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.5ms
+Speed: 2.7ms preprocess, 20.5ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.9ms preprocess, 20.2ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.4ms preprocess, 20.2ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.6ms
+Speed: 2.5ms preprocess, 20.6ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.2ms
+Speed: 2.7ms preprocess, 20.2ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.2ms
+Speed: 2.7ms preprocess, 20.2ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 20.4ms
+Speed: 2.7ms preprocess, 20.4ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.2ms
+Speed: 2.7ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.3ms
+Speed: 2.2ms preprocess, 20.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 20.3ms
+Speed: 2.5ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.8ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.1ms
+Speed: 2.2ms preprocess, 20.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.1ms
+Speed: 2.3ms preprocess, 20.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.3ms
+Speed: 2.2ms preprocess, 20.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.3ms
+Speed: 2.5ms preprocess, 20.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.6ms
+Speed: 2.5ms preprocess, 20.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.3ms
+Speed: 2.7ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.1ms
+Speed: 2.6ms preprocess, 20.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.5ms
+Speed: 2.6ms preprocess, 20.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 20.5ms
+Speed: 2.5ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 20.1ms
+Speed: 2.6ms preprocess, 20.1ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.0ms
+Speed: 2.5ms preprocess, 20.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.4ms preprocess, 20.2ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.1ms
+Speed: 2.3ms preprocess, 20.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.2ms
+Speed: 2.5ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.1ms
+Speed: 2.5ms preprocess, 20.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.3ms
+Speed: 2.2ms preprocess, 20.3ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.1ms
+Speed: 2.6ms preprocess, 20.1ms inference, 2.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.8ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.2ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.5ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 20.1ms
+Speed: 2.7ms preprocess, 20.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.3ms
+Speed: 2.4ms preprocess, 20.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.2ms
+Speed: 2.7ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 8 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.6ms
+Speed: 2.5ms preprocess, 20.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.5ms
+Speed: 2.5ms preprocess, 20.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.1ms
+Speed: 2.6ms preprocess, 20.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.5ms preprocess, 20.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.5ms
+Speed: 2.2ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.3ms
+Speed: 2.2ms preprocess, 20.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.1ms
+Speed: 2.7ms preprocess, 20.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.6ms
+Speed: 2.6ms preprocess, 20.6ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.5ms
+Speed: 2.6ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 20.5ms
+Speed: 2.7ms preprocess, 20.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 2.3ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.4ms
+Speed: 2.4ms preprocess, 20.4ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.3ms
+Speed: 2.7ms preprocess, 20.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.4ms
+Speed: 2.6ms preprocess, 20.4ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.9ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.1ms
+Speed: 2.4ms preprocess, 20.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.4ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.7ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.2ms
+Speed: 2.7ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 16 number plates, 20.2ms
+Speed: 2.7ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 20.4ms
+Speed: 2.2ms preprocess, 20.4ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.3ms
+Speed: 2.2ms preprocess, 20.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.3ms
+Speed: 2.6ms preprocess, 20.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.4ms
+Speed: 2.7ms preprocess, 20.4ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.3ms
+Speed: 2.5ms preprocess, 20.3ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.5ms
+Speed: 2.6ms preprocess, 20.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.9ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.2ms
+Speed: 2.9ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.3ms
+Speed: 2.7ms preprocess, 20.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.6ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.7ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.0ms
+Speed: 2.6ms preprocess, 20.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.2ms
+Speed: 2.5ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.4ms preprocess, 20.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.3ms preprocess, 20.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.3ms
+Speed: 2.7ms preprocess, 20.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.3ms
+Speed: 2.8ms preprocess, 20.3ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.5ms
+Speed: 2.5ms preprocess, 20.5ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.4ms
+Speed: 2.3ms preprocess, 20.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.2ms
+Speed: 2.9ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.8ms
+Speed: 3.0ms preprocess, 19.8ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.8ms
+Speed: 2.2ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.8ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 3.0ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.8ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 16 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 14 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.2ms
+Speed: 2.2ms preprocess, 20.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.2ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.9ms
+Speed: 2.7ms preprocess, 19.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.8ms
+Speed: 2.8ms preprocess, 19.8ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.5ms
+Speed: 2.8ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.4ms
+Speed: 2.7ms preprocess, 19.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.8ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.2ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 3.0ms preprocess, 19.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 20.0ms
+Speed: 2.4ms preprocess, 20.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.8ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 14 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 14 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 17 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 16 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 14 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.9ms
+Speed: 2.5ms preprocess, 19.9ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.8ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.9ms
+Speed: 2.3ms preprocess, 19.9ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.9ms
+Speed: 2.9ms preprocess, 19.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.8ms
+Speed: 2.8ms preprocess, 19.8ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 47 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.4ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.9ms
+Speed: 2.6ms preprocess, 19.9ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.0ms
+Speed: 2.6ms preprocess, 20.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.8ms
+Speed: 2.7ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 16 ms
+
+0: 384x640 17 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 16 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 20.0ms
+Speed: 2.5ms preprocess, 20.0ms inference, 2.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.4ms
+Speed: 2.3ms preprocess, 19.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.9ms
+Speed: 2.5ms preprocess, 19.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.4ms
+Speed: 2.5ms preprocess, 19.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.2ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.8ms
+Speed: 2.2ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.9ms preprocess, 19.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.8ms
+Speed: 2.7ms preprocess, 19.8ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.9ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.8ms preprocess, 19.8ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 4 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.8ms
+Speed: 2.7ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.9ms
+Speed: 2.3ms preprocess, 19.9ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.9ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.9ms
+Speed: 2.5ms preprocess, 19.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.9ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.9ms preprocess, 19.7ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.9ms preprocess, 19.6ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 20.0ms
+Speed: 2.5ms preprocess, 20.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.8ms
+Speed: 2.7ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 4 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.8ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.9ms
+Speed: 2.6ms preprocess, 19.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.7ms
+Speed: 2.8ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 16 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.4ms
+Speed: 2.6ms preprocess, 19.4ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 3.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.8ms
+Speed: 2.4ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 16 ms
+
+0: 384x640 8 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.8ms
+Speed: 2.5ms preprocess, 19.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.9ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 20.0ms
+Speed: 3.3ms preprocess, 20.0ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.9ms
+Speed: 2.6ms preprocess, 19.9ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.6ms
+Speed: 2.9ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.8ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 3.3ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.5ms
+Speed: 2.5ms preprocess, 19.5ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.7ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.5ms
+Speed: 2.5ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.9ms
+Speed: 3.2ms preprocess, 19.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.5ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.9ms preprocess, 19.6ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.3ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.6ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 16 ms
+
+0: 384x640 8 number plates, 19.8ms
+Speed: 2.7ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.8ms
+Speed: 2.4ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.7ms
+Speed: 2.5ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.7ms
+Speed: 2.8ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.0ms
+Speed: 2.6ms preprocess, 20.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.8ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 8 number plates, 19.7ms
+Speed: 2.3ms preprocess, 19.7ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.7ms
+Speed: 3.0ms preprocess, 19.7ms inference, 3.5ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 42 ms
+
+0: 384x640 6 number plates, 19.7ms
+Speed: 2.6ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 6 number plates, 19.6ms
+Speed: 2.7ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 8 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.9ms
+Speed: 2.6ms preprocess, 19.9ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.8ms
+Speed: 2.7ms preprocess, 19.8ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.6ms
+Speed: 2.8ms preprocess, 19.6ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.5ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.2ms
+Speed: 2.3ms preprocess, 20.2ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 41 ms
+
+0: 384x640 8 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.8ms
+Speed: 2.3ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.5ms
+Speed: 2.6ms preprocess, 19.5ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.4ms preprocess, 19.6ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.3ms preprocess, 19.5ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.7ms
+Speed: 2.4ms preprocess, 19.7ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.4ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.7ms
+Speed: 2.8ms preprocess, 19.7ms inference, 2.3ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 20.0ms
+Speed: 2.4ms preprocess, 20.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 20.0ms
+Speed: 2.5ms preprocess, 20.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.8ms
+Speed: 2.8ms preprocess, 19.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 2.3ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.9ms
+Speed: 2.6ms preprocess, 19.9ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.7ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 18.9ms
+Speed: 2.3ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.2ms
+Speed: 2.7ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 3.4ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.2ms
+Speed: 2.5ms preprocess, 19.2ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.1ms
+Speed: 2.7ms preprocess, 19.1ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.2ms preprocess, 19.1ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.1ms
+Speed: 2.4ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 8 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.1ms
+Speed: 2.4ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 6 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 16 ms
+
+0: 384x640 7 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.3ms
+Speed: 2.4ms preprocess, 19.3ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 18.9ms
+Speed: 2.5ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 7 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 6 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 5 plate(s) in 16 ms
+
+0: 384x640 7 number plates, 19.3ms
+Speed: 2.6ms preprocess, 19.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 16 ms
+
+0: 384x640 8 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.2ms
+Speed: 2.6ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.1ms
+Speed: 2.4ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.4ms
+Speed: 2.2ms preprocess, 19.4ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 18.9ms
+Speed: 2.4ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 18.9ms
+Speed: 2.7ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.2ms
+Speed: 2.6ms preprocess, 19.2ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 8 number plates, 19.0ms
+Speed: 2.9ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.9ms preprocess, 19.1ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.5ms
+Speed: 2.5ms preprocess, 19.5ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.0ms
+Speed: 2.4ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 8 number plates, 19.2ms
+Speed: 2.3ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 6 plate(s) in 16 ms
+
+0: 384x640 9 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.2ms
+Speed: 2.2ms preprocess, 19.2ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.2ms
+Speed: 2.3ms preprocess, 19.2ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.4ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.2ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.2ms
+Speed: 2.2ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.2ms
+Speed: 2.5ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 3.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 18.8ms
+Speed: 2.4ms preprocess, 18.8ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 18.9ms
+Speed: 2.3ms preprocess, 18.9ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 26 ms
+
+0: 384x640 12 number plates, 19.5ms
+Speed: 2.7ms preprocess, 19.5ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.2ms
+Speed: 2.6ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 10 number plates, 18.8ms
+Speed: 2.3ms preprocess, 18.8ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.2ms
+Speed: 2.3ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.0ms
+Speed: 2.2ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 10 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.1ms
+Speed: 2.5ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.1ms
+Speed: 2.5ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.2ms
+Speed: 2.7ms preprocess, 19.2ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.2ms
+Speed: 2.8ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.2ms
+Speed: 2.6ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.3ms
+Speed: 2.2ms preprocess, 19.3ms inference, 2.3ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 18.9ms
+Speed: 2.3ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.3ms
+Speed: 2.3ms preprocess, 19.3ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.2ms
+Speed: 2.4ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.5ms preprocess, 19.0ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 18.9ms
+Speed: 2.2ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 11 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.2ms
+Speed: 2.7ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 18.9ms
+Speed: 2.3ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.6ms
+Speed: 2.6ms preprocess, 19.6ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.2ms
+Speed: 2.8ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.3ms
+Speed: 2.6ms preprocess, 19.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 18.9ms
+Speed: 2.6ms preprocess, 18.9ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 3.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.3ms
+Speed: 2.7ms preprocess, 19.3ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.1ms
+Speed: 2.4ms preprocess, 19.1ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 7 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 9 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 8 plate(s) in 31 ms
+
+0: 384x640 11 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.4ms
+Speed: 2.8ms preprocess, 19.4ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.2ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 14 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.1ms
+Speed: 2.4ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.0ms
+Speed: 2.4ms preprocess, 19.0ms inference, 1.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 14 plate(s) in 16 ms
+
+0: 384x640 16 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 15 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 18.9ms
+Speed: 2.3ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.0ms
+Speed: 2.5ms preprocess, 19.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 18.9ms
+Speed: 2.3ms preprocess, 18.9ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.2ms
+Speed: 2.6ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.2ms
+Speed: 2.2ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 14 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.2ms
+Speed: 2.3ms preprocess, 19.2ms inference, 2.1ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.1ms
+Speed: 2.4ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.2ms
+Speed: 2.4ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 16 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 18.9ms
+Speed: 2.4ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+
+0: 384x640 12 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 18.9ms
+Speed: 2.5ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 14 plate(s) in 31 ms
+
+0: 384x640 16 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 15 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.0ms
+Speed: 2.5ms preprocess, 19.0ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 14 plate(s) in 31 ms
+
+0: 384x640 18 number plates, 19.1ms
+Speed: 2.3ms preprocess, 19.1ms inference, 1.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 31 ms
+
+0: 384x640 16 number plates, 19.1ms
+Speed: 2.4ms preprocess, 19.1ms inference, 2.8ms postprocess per image at shape (1, 3, 384, 640)
+Detected 14 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.0ms
+Speed: 2.7ms preprocess, 19.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 9 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 18.9ms
+Speed: 2.7ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.2ms
+Speed: 2.6ms preprocess, 19.2ms inference, 3.0ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 18.9ms
+Speed: 2.6ms preprocess, 18.9ms inference, 2.9ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 14 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 13 number plates, 19.1ms
+Speed: 2.8ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.0ms
+Speed: 2.6ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.2ms
+Speed: 2.4ms preprocess, 19.2ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.2ms
+Speed: 2.6ms preprocess, 19.2ms inference, 2.6ms postprocess per image at shape (1, 3, 384, 640)
+Detected 12 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.1ms
+Speed: 2.6ms preprocess, 19.1ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 13 plate(s) in 31 ms
+
+0: 384x640 15 number plates, 19.4ms
+Speed: 2.5ms preprocess, 19.4ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 31 ms
+
+0: 384x640 12 number plates, 18.9ms
+Speed: 2.3ms preprocess, 18.9ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 10 plate(s) in 16 ms
+
+0: 384x640 13 number plates, 19.0ms
+Speed: 2.3ms preprocess, 19.0ms inference, 2.7ms postprocess per image at shape (1, 3, 384, 640)
+Detected 11 plate(s) in 16 ms
+End of video.
+
+(yolo11) C:\Users\MAAZ\Source-Code>
